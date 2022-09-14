@@ -1,4 +1,6 @@
-import matplotlib.pyplot as plt
+pip uninstall matplotlib
+python -m pip install --upgrade pip
+pip install matplotlib
 import numpy as np
 
 from sklearn.datasets import make_blobs
